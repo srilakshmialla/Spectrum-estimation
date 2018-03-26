@@ -1,4 +1,3 @@
-% EE-658 Advanced Digital Signal Processing
 % Blackman-Tukey Method
 
 clc
