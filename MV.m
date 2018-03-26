@@ -1,5 +1,4 @@
 function Px = MV(x,p,w)
-% EE-658 Advanced Digital Signal Processing
 % Minimum Variance Spectrum estimation
 % x: Input signal
 % p: The order of the filters
