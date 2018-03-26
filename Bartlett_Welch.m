@@ -1,4 +1,3 @@
-% EE-658 Advanced Digital Signal Processing
 % Bartlett's and Welch's Methods
 
 clc
