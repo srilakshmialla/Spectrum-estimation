@@ -1,5 +1,4 @@
 function [Px,w] = per_smooth(x,wind,M)
-% EE-658 Advanced Digital Signal Processing
 % Blackman-Tukey Method
 % x: Input signal
 % wind: The window sequence
